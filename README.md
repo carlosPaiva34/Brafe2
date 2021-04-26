@@ -1,4 +1,4 @@
 # Brafe2
  Site em html puro
- Criando com o bloco de notas para ajudar a fixar o conteúdo
+ Criado com o bloco de notas para ajudar a fixar o conteúdo
  Ok carlos Alteração recebida com sucesso
